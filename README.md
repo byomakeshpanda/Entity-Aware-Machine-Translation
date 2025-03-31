@@ -47,13 +47,14 @@ To input an English sentence and retrieve entity aware translated french sentenc
 ### Results  
 Achieved BLEU score of **44.7**.
 
-
-
-
-
 ## References
 
  - [Entity-aware Multi-task Training Helps Rare Word Machine Translation](https://aclanthology.org/2024.inlg-main.5.pdf)
  - [ Extract and Attend: Improving Entity Translation in Neural Machine Translation.](https://arxiv.org/abs/2306.02242)
  - [SemEval 2025 EA-MT Dataset and Task.](https://sapienzanlp.github.io/ea-mt/)
  - [End-to-End Entity-Aware Neural Machine Translation.](https://www.researchgate.net/publication/357809034_End-to-end_entity-aware_neural_machine_translation)
+
+## Team Members:
+- Byomakesh Panda (M24DS004)
+- Rishav Kumar (M24DS012)
+- Sugandh Kumar (M24DS016)
